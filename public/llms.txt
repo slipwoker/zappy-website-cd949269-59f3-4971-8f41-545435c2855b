@@ -1,0 +1,57 @@
+# רענן קמינים — Generative Engine Optimization Map
+
+> A שירותי גז ובנייה business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-cd949269.zappy5.app
+רענן קמינים מציעה שירותי גז מקצועיים באזור באר שבע - התקנת מחמם מים על גז, תיקון קמינים והכנת תשתית גז לבניה חדשה.
+
+### שירותים
+https://-cd949269.zappy5.app/services
+שירותי גז מקצועיים - התקנת מחמם מים על גז, תיקון קמין גז, הכנת תשתית גז לבניה חדשה ועוד. צוות מוסמך ומנוסה באר שבע והסביבה.
+
+### אודות
+https://-cd949269.zappy5.app/about
+רענן קמינים - מומחים לשירותי גז באר שבע עם ניסיון של שנים. מתמחים בהתקנת מחמם מים על גז, תיקון קמינים והכנת תשתית גז.
+
+### צור קשר
+https://-cd949269.zappy5.app/contact
+צרו קשר עם רענן קמינים לשירותי גז מקצועיים - מחמם מים על גז, תיקון קמינים והכנת תשתית גז. שירות מהיר ואמין באר שבע והסביבה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-cd949269.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-cd949269.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-cd949269.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רענן קמינים
+רענן קמינים is a business in the שירותי גז ובנייה industry.
+
+## Target Audience
+לקוחות פרטיים ומסחריים באזור באר שבע והסביבה
+
+## Industry
+שירותי גז ובנייה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-cd949269.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-cd949269.zappy5.app/robots.txt
